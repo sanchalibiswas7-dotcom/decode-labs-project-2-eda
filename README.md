@@ -44,13 +44,24 @@ The dataset contains E-commerce order information including:
 * Order status
 * Customer-related information
 
-## Key Insights
+## Key Observations and Insights
 
-* Certain products generated higher sales and revenue compared to others.
-* Credit Card was one of the most frequently used payment methods.
-* Monthly sales analysis showed variations in revenue across different months.
-* Correlation analysis indicated that TotalPrice was strongly influenced by Quantity and UnitPrice.
-* Outlier detection helped identify unusually high-value orders in the dataset.
+* The dataset contains 1,200 customer orders and generated a total revenue of ₹1,264,761.96.
+
+* The average order value was ₹1,053.97, while the median order value was ₹823.62, indicating that a few high-value orders increased the overall average.
+
+* Printer was the most frequently purchased product with 181 orders, followed by Tablet (179) and Chair (178).
+
+* Chair generated the highest revenue of ₹195,620.11, closely followed by Printer with ₹195,612.61.
+
+* Online was the most preferred payment method with 258 transactions, while Gift Card was the least used with 230 transactions.
+
+* Monthly revenue analysis showed that June recorded the highest sales revenue of ₹170,616.13, whereas September generated the lowest revenue of ₹69,321.65.
+
+* Correlation analysis revealed that TotalPrice had a stronger relationship with UnitPrice (0.72) than with Quantity (0.62), suggesting that product pricing had a slightly greater impact on order value.
+
+* Outlier analysis identified a small number of high-value orders, with the maximum order value reaching ₹3,456.40 compared to the average order value of ₹1,053.97.
+
 
 ## Files Included
 
