@@ -17,12 +17,14 @@ The objective of this project was to perform Exploratory Data Analysis (EDA) on 
 * Outlier detection
 * Data visualization using charts and graphs
 
-<img width="300" height="200" alt="Screenshot 2026-05-26 120855" src="https://github.com/user-attachments/assets/13f51b7e-60b2-4487-86a0-7e3a287888eb" />
-<img width="300" height="200" alt="Screenshot 2026-05-26 120855" src="https://github.com/user-attachments/assets/9f49a300-a303-4112-9e5b-e6b8cf66653e" />
+<img width="300" height="200" alt="Screenshot 2026-05-26 120855" src="https://github.com/user-attachments/assets/5049f58c-1b96-49af-b714-50f217e9f3e6" />
+<img width="300" height="200" alt="Screenshot 2026-05-26 120916" src="https://github.com/user-attachments/assets/10603079-84ea-4922-bd63-69996da72be0" />
 <img width="300" height="200" alt="Screenshot 2026-05-26 120935" src="https://github.com/user-attachments/assets/30382c66-9235-4486-ac9f-2525c3756a90" />
-<img width="300" height="200" alt="Screenshot 2026-05-26 120950" src="https://github.com/user-attachments/assets/f8057c04-ea51-408f-bc88-dad6129f9370" />
+<img width="300" height="200" alt="Screenshot 2026-06-01 200011" src="https://github.com/user-attachments/assets/503454b1-ef84-4469-915a-e22c2b39066e" />
 <img width="300" height="200" alt="Screenshot 2026-05-26 121007" src="https://github.com/user-attachments/assets/d17598b7-e859-45c7-b4d0-5cccd8e0bb16" />
 <img width="300" height="200" alt="Screenshot 2026-05-26 121025" src="https://github.com/user-attachments/assets/96566e49-01b6-4a50-9fa6-356ff8e21c27" />
+<img width="300" height="200" alt="Screenshot 2026-06-01 200139" src="https://github.com/user-attachments/assets/f72d724f-b7ee-4467-a133-1f9a3d93ce22" />
+
 
 
 ## Tools & Technologies Used
@@ -30,6 +32,7 @@ The objective of this project was to perform Exploratory Data Analysis (EDA) on 
 * Python
 * Pandas
 * Matplotlib
+* Seaborn
 * Google Colab
 * Excel
 
